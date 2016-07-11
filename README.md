@@ -4,9 +4,13 @@ McGill Physics Hackathon
 This repo contains the source code of all the submissions to the 
 submissions to the [2016 McGill Physics Hackathon](http://www.physics.mcgill.ca/hackathon2016/).
 
+You need to do clone this repo using:
 
-You may need to do `git clone --recusive <this repo's url>` if you have an older version of git
-to pull in all submodules. 
+    git clone --recusive <this repo's url>
+
+Recusive will pull in the code for all projects (800MB total).
+
+
 
 Submissions info
 ----------------
