@@ -1,0 +1,45 @@
+[submodule "2d_quantum_mechanics"]
+	path = 2d_quantum_mechanics
+	url = ./2d_quantum_mechanics
+[submodule "arXiv_harvest"]
+	path = arXiv_harvest
+	url = ./arXiv_harvest
+[submodule "chaotic_magnetic_pendulum"]
+	path = chaotic_magnetic_pendulum
+	url = ./chaotic_magnetic_pendulum
+[submodule "coilgun"]
+	path = coilgun
+	url = ./coilgun
+[submodule "double_pipe_heat_echanger"]
+	path = double_pipe_heat_echanger
+	url = ./double_pipe_heat_echanger
+[submodule "electron_shells"]
+	path = electron_shells
+	url = ./electron_shells
+[submodule "fluid_molecular_simulation"]
+	path = fluid_molecular_simulation
+	url = ./fluid_molecular_simulation
+[submodule "n_body_simulation"]
+	path = n_body_simulation
+	url = ./n_body_simulation
+[submodule "nanoparticles"]
+	path = nanoparticles
+	url = ./nanoparticles
+[submodule "pandemic"]
+	path = pandemic
+	url = ./pandemic
+[submodule "percolation"]
+	path = percolation
+	url = ./percolation
+[submodule "relativistic_effects"]
+	path = relativistic_effects
+	url = ./relativistic_effects
+[submodule "snowflakes"]
+	path = snowflakes
+	url = ./snowflakes
+[submodule "universe"]
+	path = universe
+	url = ./universe
+[submodule "work_the_fire"]
+	path = work_the_fire
+	url = ./work_the_fire
