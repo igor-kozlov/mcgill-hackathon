@@ -1,45 +1,45 @@
 [submodule "2d_quantum_mechanics"]
 	path = 2d_quantum_mechanics
-	url = ./2d_quantum_mechanics
+	url = https://github.com/Researchnix/McGillHackathon
 [submodule "arXiv_harvest"]
 	path = arXiv_harvest
-	url = ./arXiv_harvest
+	url = https://github.com/mcphyshack/hackathon2016
 [submodule "chaotic_magnetic_pendulum"]
 	path = chaotic_magnetic_pendulum
-	url = ./chaotic_magnetic_pendulum
+	url = https://github.com/jusleg/ChaoticMagneticSuperPendulum
 [submodule "coilgun"]
 	path = coilgun
-	url = ./coilgun
+	url = https://github.com/vgagnon/UQTRHackathon2016
 [submodule "double_pipe_heat_echanger"]
 	path = double_pipe_heat_echanger
-	url = ./double_pipe_heat_echanger
+	url = https://github.com/kumargv/HackathonPhysics_Amin_Julien_Avishek_Kumar
 [submodule "electron_shells"]
 	path = electron_shells
-	url = ./electron_shells
+	url = git@bitbucket.org:smarkson/nmr-fun.git
 [submodule "fluid_molecular_simulation"]
 	path = fluid_molecular_simulation
-	url = ./fluid_molecular_simulation
+	url = https://github.com/FrancoisMichaud/FluidGuys
 [submodule "n_body_simulation"]
 	path = n_body_simulation
-	url = ./n_body_simulation
+	url = https://github.com/RobertRiachi/McGillPhysicsHackathon2016
 [submodule "nanoparticles"]
 	path = nanoparticles
-	url = ./nanoparticles
+	url = https://github.com/jamesaliba/nanomon1
 [submodule "pandemic"]
 	path = pandemic
-	url = ./pandemic
+	url = https://github.com/gabrielleBeaudin/pandemic
 [submodule "percolation"]
 	path = percolation
-	url = ./percolation
+	url = https://github.com/pjreidini/mcgillHack2016
 [submodule "relativistic_effects"]
 	path = relativistic_effects
-	url = ./relativistic_effects
+	url = https://github.com/doome1337/reals
 [submodule "snowflakes"]
 	path = snowflakes
-	url = ./snowflakes
+	url = https://github.com/thisiscabbage/hackathon-snowflakes
 [submodule "universe"]
 	path = universe
-	url = ./universe
+	url = https://github.com/qintheory/friedmaneqs
 [submodule "work_the_fire"]
 	path = work_the_fire
-	url = ./work_the_fire
+	url = https://github.com/mscott99/Work-the-fire
