@@ -10,12 +10,9 @@
 [submodule "coilgun"]
 	path = coilgun
 	url = https://github.com/vgagnon/UQTRHackathon2016
-[submodule "double_pipe_heat_echanger"]
-	path = double_pipe_heat_echanger
-	url = https://github.com/kumargv/HackathonPhysics_Amin_Julien_Avishek_Kumar
 [submodule "electron_shells"]
 	path = electron_shells
-	url = git@bitbucket.org:smarkson/nmr-fun.git
+	url = https://bitbucket.org/smarkson/nmr-fun.git
 [submodule "fluid_molecular_simulation"]
 	path = fluid_molecular_simulation
 	url = https://github.com/FrancoisMichaud/FluidGuys
@@ -43,3 +40,6 @@
 [submodule "work_the_fire"]
 	path = work_the_fire
 	url = https://github.com/mscott99/Work-the-fire
+[submodule "double_pipe_heat_echanger"]
+	path = double_pipe_heat_echanger
+	url = https://github.com/kumargv/HackathonPhysics_Amin_Julien_Avishek_Kumar
