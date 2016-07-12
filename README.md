@@ -6,9 +6,9 @@ submissions to the [2016 McGill Physics Hackathon](http://www.physics.mcgill.ca/
 
 You need to do clone this repo using:
 
-    git clone --recusive <this repo's url>
+    git clone --recusive https://github.com/igor-kozlov/mcgill-hackathon
 
-Recusive will pull in the code for all projects (800MB total).
+The `--recusive` option will pull in the code for all projects (800MB total).
 
 
 
